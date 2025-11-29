@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sovisal Horn
+# 👋 Hi, I'm  Horn Sovisal
 ### 🛡️ Cybersecurity Student
 
 ---
