@@ -1,56 +1,71 @@
-# 👋 Hi, I'm  Horn Sovisal
-### 🛡️ Cybersecurity Student
+# Horn Sovisal  
+**Cybersecurity & Network Systems Undergraduate**  
+Cambodia Academy of Digital Technology (CADT)
 
 ---
 
-## 🌐 About Me
-- 🎓 **Bachelor's in Telecom & Networking (Cyber Security)** @ CADT  
-- 🔐 Interested in **Network Security**, **Cyber Defense**, and **SOC**  
-- 🧘 Inspired by **Buddhist teachings** for focus & balance  
-- 💻 Comfortable with:
-  - **C Programming & C++ Programming**
-  - **HTML & CSS​​ & JavsScript**
-  - **Python**
-  - **MySQL**
-  - **Linux & Networking Fundamentals**
-- 🤝 Open to collaborating on **cybersecurity** or **networking research** projects  
-- Currently : Mastering GoLan Backend Langugague
----
+## 🧠 About Me
 
-## 🏆 Certifications & Achievements
+I am a Year 2 undergraduate specializing in Cybersecurity and Network Systems. My academic interests focus on security evaluation, vulnerability assessment, secure backend systems, and structured cybersecurity assurance methodologies.
 
-[![CCNA: Introduction to Networks](https://img.shields.io/badge/CCNA-Introduction_to_Networks-blue?style=for-the-badge)](https://www.credly.com/badges/1e8e7d6e-d5c3-4a2e-bc39-3e8c4f8a0d3a)
-[![Introduction to Cybersecurity](https://img.shields.io/badge/Introduction_to_Cybersecurity-IBM-blue?style=for-the-badge)](https://www.credly.com/badges/84d1a2c4-7737-4c3f-9d40-dc5f8d0a1b6b)
-[![IBM Cybersecurity Tools and Cyberattacks V3](https://img.shields.io/badge/IBM-Cybersecurity_Tools_and_Cyberattacks_v3-blue?style=for-the-badge)](https://www.credly.com/badges/2a0f8200-6e15-4d62-b4d4-f5c8f75b6a1d)
-[![IT Essentials](https://img.shields.io/badge/IT_Essentials-Cisco-blue?style=for-the-badge)](https://www.credly.com/badges/0c9fef29-b65b-4d12-8b1c-bf1f5a3d73d3)
-[![Linux Unhatched](https://img.shields.io/badge/Linux_Unhatched-Linux-blue?style=for-the-badge)](https://www.credly.com/badges/b3c4a4f0-92a3-4a9b-8e1a-8bbf4df25e5e)
-[![Python Essentials 1](https://img.shields.io/badge/Python_Essentials_1-Python-blue?style=for-the-badge)](https://www.credly.com/badges/f8b9d5d8-01b3-4cb3-8b6a-3b8a3e0592c8)
-
+I combine applied security research with practical system development and am currently expanding my expertise in backend architecture and Linux-based systems.
 
 ---
 
-## 🛠 Skills & Tools
+## 🔬 Research & Technical Interests
 
-![C Programming](https://img.shields.io/badge/C%20Programming-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-FF6F00?style=for-the-badge&logo=gnubash&logoColor=white)
+- 🛡 Cybersecurity Evaluation & Assurance  
+- 🌐 Network Security & Vulnerability Assessment  
+- 🔎 Threat Modeling & Risk Analysis  
+- 🐧 Linux Systems & Security Hardening  
+- 🤖 Applied AI in Security  
 
 ---
 
+## 💻 Technical Stack
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/sovisal-horn12/))
+### 🖥 Programming
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 🌐 Web & Backend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### 🐧 Systems & Networking
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-TCP/IP-orange?style=flat)
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SovisalHorn&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SovisalHorn&layout=compact&theme=tokyonight" height="150"/>
-</p>
+## 🚀 Selected Projects
+
+### EVILUSB – HID-Based Security Study  
+Academic research project analyzing USB injection attack mechanisms to strengthen defensive security strategies.
+
+### Scan-Bondanh – Network Security Evaluation Tool  
+Multi-threaded Python-based network scanning tool supporting host discovery, port analysis, and service detection.
+
+### VITA AI Detect  
+Machine learning–based web platform detecting AI-generated images to enhance digital literacy and mitigate misinformation.
+
+---
+
+## 🎯 Current Focus
+
+- Secure Web Architecture  
+- Linux System Hardening  
+- Cybersecurity Research Project   
+
+---
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/sovisal-horn12/)  
+Email: sovisal.horn1@gmail.com
